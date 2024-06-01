@@ -13,5 +13,6 @@ I thrive in cross-functional teams where I can share perspectives, learn from ot
 
 ## Projects
 
-HR Survey Analysis
+[HR Survey Analysis](https://1drv.ms/x/c/6f380362ed6cd989/EYlHCfuyfpBHjuUauV4hVy4BvVSPnOeMdBrdo3U__DGBEw?e=BJs4yg)
+
 

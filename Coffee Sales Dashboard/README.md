@@ -1,4 +1,5 @@
 # COFFEE SALES DASHBOARD
+[Coffee Sales Dashboard](https://1drv.ms/x/c/6f380362ed6cd989/Ectizo0UrUhFl6AiGdQXt38B00EoDZYLKlLLiacAeXJXdQ?e=xuADCS)
 ## THE SITUATION
 I’ve recently became a franchise owner at Maven Roasters, a coffee shop chain with three locations in New York City.
 ## THE ASSIGNMENT

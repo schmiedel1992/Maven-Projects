@@ -15,4 +15,6 @@ I thrive in cross-functional teams where I can share perspectives, learn from ot
 
 [HR Survey Analysis](https://1drv.ms/x/c/6f380362ed6cd989/EYlHCfuyfpBHjuUauV4hVy4BvVSPnOeMdBrdo3U__DGBEw?e=BJs4yg)
 
+[Coffee Sales Dashboard](https://1drv.ms/x/c/6f380362ed6cd989/Ectizo0UrUhFl6AiGdQXt38B00EoDZYLKlLLiacAeXJXdQ?e=xuADCS)
+
 
